@@ -127,4 +127,4 @@ Programming Language: Python
 
 Interface: CLI
 
-Project Type: College Academic ProjectAAAA
+Project Type: College Academic Project
