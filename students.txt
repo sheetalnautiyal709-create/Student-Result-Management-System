@@ -1,0 +1,5 @@
+101,Sheetal Nautiyal,86,86,90
+103,Saloni Panwar,90,82,69
+104,Sanjana,60,52,39
+1,Ssalni,23,41,25
+1033,salni,80,5,6
